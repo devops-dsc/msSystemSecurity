@@ -1,5 +1,5 @@
 #
-# Module manifest for module 'MSFT_xSystemSecurity'
+# Module manifest for module 'MSFT_msSystemSecurity'
 #
 # Generated on: 3/19/2014
 #

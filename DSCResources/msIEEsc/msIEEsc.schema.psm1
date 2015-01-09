@@ -1,4 +1,4 @@
-Configuration xIEEsc
+Configuration msIEEsc
 {  
 	param
 	(
