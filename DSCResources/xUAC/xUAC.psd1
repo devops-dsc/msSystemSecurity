@@ -1,4 +1,4 @@
-﻿#
+#
 # Module manifest for module 'xUAC'
 #
 # Generated on: 3/19/2014

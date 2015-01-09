@@ -1,4 +1,4 @@
-﻿Configuration xUac
+Configuration xUac
 {
     param
     (
