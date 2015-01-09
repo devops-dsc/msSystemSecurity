@@ -1,5 +1,5 @@
 #
-# Module manifest for module 'xIEEsc'
+# Module manifest for module 'msIEEsc'
 #
 # Generated on: 3/19/2014
 #

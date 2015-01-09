@@ -1,5 +1,5 @@
 #
-# Module manifest for module 'xUAC'
+# Module manifest for module 'msUAC'
 #
 # Generated on: 3/19/2014
 #
@@ -7,7 +7,7 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-RootModule = 'xUAC.schema.psm1'
+RootModule = 'msUAC.schema.psm1'
 
 # Version number of this module.
 ModuleVersion = '1.0'
