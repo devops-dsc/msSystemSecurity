@@ -22,7 +22,7 @@ CompanyName = 'Microsoft'
 Copyright = '(c) 2014 Microsoft Corporation. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Handles Windows related security settings like UAC and IE ESC. xUAC enables or disables the User Account Control prompt, while xIEEsc enables or disables IE Enhanced Security Configuration.'
+Description = 'Handles Windows related security settings like UAC and IE ESC. msUAC enables or disables the User Account Control prompt, while msIEEsc enables or disables IE Enhanced Security Configuration.'
 
 # Functions to export from this module
 FunctionsToExport = '*'
